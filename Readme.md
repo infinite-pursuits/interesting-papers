@@ -6,4 +6,4 @@
 
 ## Alzheimer's Disease 
 
-- [ ] **[1]** Hyunkwang Lee [**An explainable deep-learning algorithm for the detection of acute intracranial haemorrhage from small datasets**](https://www.nature.com/articles/s41551-018-0324-9)
+- [ ] **[1]** Hyunkwang Lee [**An explainable deep-learning algorithm for the detection of acute intracranial haemorrhage from small datasets**](https://www.nature.com/articles/s41551-018-0324-9).
